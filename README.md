@@ -1,6 +1,6 @@
 # Onion P-Scanner
 
-<img src="[IMG_LINK](https://i.imgur.com/24vGCaw.png)" width="500" height="300"/>
+<a href="url"><img src="https://i.imgur.com/24vGCaw.png" align="center" width="600" ></a>
 
 ## Installation
 
@@ -60,3 +60,4 @@ If you do not have the required dependencies it will tell you upon running the s
 I thought of it and figured why not🤷‍♂️
 It turned into a passion project to simply see what level I could take it to in terms of functionality and visual eye candy.
 The code is kind of messy, I tried to clean it up a little bit but I already spent long enough on this and dont want to look at it more if I dont have to.
+Ignore the test url ( ͡° ͜ʖ ͡°)
