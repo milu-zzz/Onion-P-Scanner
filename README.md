@@ -10,6 +10,10 @@ Open a terminal and run:
 
 ```bash
 sudo apt update
+sudo xargs -a requirements.txt apt install -y
+```
+or, install the requirements manually:
+```bash
 sudo apt install proxychains4 ncat nmap coreutils sed gawk tor
 ```
 
