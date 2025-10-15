@@ -56,7 +56,7 @@ If you do not have the required dependencies it will tell you upon running the s
 ## Useful For...
 
 - Penetration testers and security researchers.
-- Tor service operators wanting to audit their own hidden services.
+- TOR service operators wanting to audit their own services.
 - Anyone needing a fast, interactive port scanner for `.onion` addresses.
 
 ## Why Did I Make This?
