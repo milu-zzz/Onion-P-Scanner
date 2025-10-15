@@ -1,0 +1,8 @@
+proxychains4
+ncat
+nmap
+timeout
+stdbuf
+sed
+awk
+tor
